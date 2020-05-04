@@ -1,1 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+aux_links:
+  "Just the Docs on GitHub":
+   - "//github.com/pmarsceill/just-the-docs"
