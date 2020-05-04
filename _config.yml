@@ -7,6 +7,6 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-aux_links:
-  "Just the Docs on GitHub":
-   - "//github.com/pmarsceill/just-the-docs"
+layout: default
+title: Customization
+nav_order: 4
